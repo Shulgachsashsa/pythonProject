@@ -3,7 +3,6 @@ from ast import literal_eval
 
 
 def main():
-    print("Дарова Джека!")
     while True:
         print("Выбор заданий: ")
         print("1. Задание 1")
